@@ -9,7 +9,9 @@
 **Phone**: +998993641398   
 
 ## About myself:  
-*I started my career at 18 as a trainee engineer. I started to study programming in 2020, but then I did not take it seriously. After graduation started working as an engineer for a local provider. After a recommendation from a friend, i again began to take an interest in programming and learned from him about RS School. Thanks to this, now I have a real chance to change my field of activity.*  
+*I started my career at 18 as a trainee engineer. I started to study programming in 2020, but then I did not take it seriously. After graduation started working as an engineer for a local provider. After a recommendation from a friend, i again began to take an interest in programming and learned from him about RS School. Thanks to this, now I have a real chance to change my field of activity.* 
+
+___ 
 
 ### Skills  
 ***HTML5, CSS3***   
@@ -20,31 +22,32 @@
 ___  
 
 **Code example:**     
-            function fizzbuzz(n)   
-                {   
-                let arr = [];   
-                for ( let i = 1; i <= n; i++) {   
-                if ( (i % 3 === 0) && (i % 5 === 0)) {   
-                        arr.push('FizzBuzz');   
-                    }    
-                    else if ( i % 3 === 0 ) {   
-                        arr.push("Fizz");   
-                    }   
-                    else if ( i % 5 === 0) {   
-                        arr.push("Buzz");   
-                    }   
-                    else {   
-                        arr.push(i);   
-                    }   
+        function fizzbuzz(n)   
+            {   
+            let arr = [];   
+            for ( let i = 1; i <= n; i++) {   
+            if ( (i % 3 === 0) && (i % 5 === 0)) {   
+                    arr.push('FizzBuzz');   
+                }    
+                else if ( i % 3 === 0 ) {   
+                    arr.push("Fizz");   
                 }   
-            return arr;   
+                else if ( i % 5 === 0) {   
+                    arr.push("Buzz");   
+                }   
+                else {   
+                    arr.push(i);   
+                }   
             }   
-            
+        return arr;   
+        }   
+
 ___
 
 ### Work experience:   
 Part time at *Technobek* freelance team 01.05.2021-04.02.2022   
-Frontend Mentor at 'IT Park Uzbekistan' 01.08.2021 - Current     
+Frontend Mentor at 'IT Park Uzbekistan' 01.08.2021 - Current 
+___    
 ### Education and courses:  
 **University:** Tashkent University of Information Technologies, Information Security major   
 **Courses:**    
@@ -61,6 +64,6 @@ Frontend Mentor at 'IT Park Uzbekistan' 01.08.2021 - Current
 
 
 ### Language:
-English level - Intermediate   
+English - Intermediate   
 Russian - Upper-Intermediate   
 Uzbek - native   
