@@ -1,22 +1,24 @@
 # rsschool-cv
 ## Abdulaxad Arapov
 ### Contact information:
-Location: Yozyovon district, Fergana region Uzbekistan country
-Discord: Abdulakhad#5080
-E-mail: abdulaxadarapov@gmail.com
-Tel: +998993641398
-Telegram: @Alisheroff13
-## About myself:
-*I started my career at 18 as a trainee engineer. I started to study programming in 2020, but then I did not take it seriously. After graduation started working as an engineer for a local provider. After a recommendation from a friend, i again began to take an interest in programming and learned from him about RS School. Thanks to this, now I have a real chance to change my field of activity.*
-<!-- 
-### Skills
-***HTML5, CSS3***
-***JavaScript Basics***
-***Reactjs Basic***
-***Typescript Basic***
-***Angular Basic***
-***VS Code***
-Code example:
+**Location**: Yozyovon district, Fergana region Uzbekistan country    
+**E-mail**: abdulaxadarapov@gmail.com    
+**Discord**: Abdulakhad#5080    
+**Telegram**: @Alisheroff13    
+**Linkedin**: [Abdulaxad Arapov] (https://www.linkedin.com/in/arapov-abdulakhad-268252208)    
+**Phone**: +998993641398   
+
+## About myself:  
+*I started my career at 18 as a trainee engineer. I started to study programming in 2020, but then I did not take it seriously. After graduation started working as an engineer for a local provider. After a recommendation from a friend, i again began to take an interest in programming and learned from him about RS School. Thanks to this, now I have a real chance to change my field of activity.*  
+
+### Skills  
+***HTML5, CSS3***   
+***JavaScript Basics***   
+***Reactjs Basic***   
+***Typescript Basic***   
+***Angular Basic***   
+***VS Code***   
+<!-- Code example:
 function fizzbuzz(n)
     {
      let ar = [];
