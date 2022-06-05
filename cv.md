@@ -5,7 +5,7 @@
 **E-mail**: abdulaxadarapov@gmail.com    
 **Discord**: Abdulakhad#5080    
 **Telegram**: @Alisheroff13    
-**Linkedin**: [Abdulaxad Arapov] (https://www.linkedin.com/in/arapov-abdulakhad-268252208)    
+**Linkedin**: [Abdulaxad Arapov](https://www.linkedin.com/in/arapov-abdulakhad-268252208)    
 **Phone**: +998993641398   
 
 ## About myself:  
@@ -16,40 +16,45 @@
 ***JavaScript Basics***   
 ***Reactjs Basic***   
 ***Typescript Basic***   
-***Angular Basic***   
-***VS Code***   
-<!-- Code example:
-function fizzbuzz(n)
-    {
-     let ar = [];
-      for ( let i = 1; i <= n; i++) {
-       if ( (i % 3 === 0) && (i % 5 === 0)) {
-        ar.push('FizzBuzz');
-      }
-        else if ( i % 3 === 0 ) {
-        ar.push("Fizz");
-     }
-        else if ( i % 5 === 0) {
-         ar.push("Buzz");
-    }
-        else {
-      ar.push(i);
-    }
-  }
-  return ar;
+***VS Code***     
+Code example:  
+function fizzbuzz(n)   
+    {   
+     let arr = [];   
+      for ( let i = 1; i <= n; i++) {   
+       if ( (i % 3 === 0) && (i % 5 === 0)) {   
+        arr.push('FizzBuzz');   
+      }    
+        else if ( i % 3 === 0 ) {   
+        arr.push("Fizz");   
+     }   
+        else if ( i % 5 === 0) {   
+         arr.push("Buzz");   
+    }   
+        else {   
+      arr.push(i);   
+    }   
+  }   
+  return arr;   
 }
-### Work experience:
-Frontend Mentor at IT Center 01.12.2021 - Current
-### Education and courses:
-Javascript/Front-end RSSCHOOL
-CS50 video course
-JS, CSS, HTML, Git video courses on YouTube channel Glo Academy
-JavaScript https://learn.javascript.ru/
-JavaScript https://javascript.info/
-FreeCodeCamp JavaScript Algorithms and Data Structures https://www.freecodecamp.org/certification/mrks77/javascript-algorithms-and-data-structures
+### Work experience:   
+Part time at *Technobek* freelance team 01.05.2021-04.02.2022   
+Frontend Mentor at 'IT Park Uzbekistan' 01.08.2021 - Current     
+### Education and courses:  
+**University:** Tashkent University of Information Technologies, Information Security major   
+**Courses:**    
+ * JavaScript [learn.javascript.ru](https://learn.javascript.ru/)   
+ * JavaScript [MDN Web Docs](https://developer.mozilla.org/ru/docs/Web/JavaScript)      
+ * Javascript/Front-end [RSSCHOOL](https://rs.school/)      
+ * JavaScript Algorithms and Data Structures [FreeCodeCamp](https://www.freecodecamp.org/)    
+ * [CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)   
+JS, CSS, HTML, Git video courses on YouTube channels:    
+ - [Vladilen Minin](https://www.youtube.com/c/VladilenMinin),   
+ - [ArchakovBlog](https://www.youtube.com/c/ArchakovBlog),   
+ - [Web Developer Blog](https://www.youtube.com/c/SuprunAlexey)      
 
 
 ### Language:
-English level - A2
-Russian - A1
-Uzbek - native -->
+English level - Intermediate
+Russian - Upper-Intermediate
+Uzbek - native
