@@ -9,7 +9,8 @@
 **Phone**: +998993641398   
 
 ## About myself:  
-*I started my career at 18 as a trainee engineer. I started to study programming in 2020, but then I did not take it seriously. After graduation started working as an engineer for a local provider. After a recommendation from a friend, i again began to take an interest in programming and learned from him about RS School. Thanks to this, now I have a real chance to change my field of activity.* 
+*The main reason why I’ve decided to try something new (rs school) is that  I hope my diligence and the courses will help me to obtain useful knowledge. I’m currently working several small web(pet) projects. My goal is to learn everything new and exciting. My core strengths are in problem solving and fast learning.I want to get knowledge and skills that will be enough for employment in a company.*
+
 
 ___ 
 
