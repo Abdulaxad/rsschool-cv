@@ -55,7 +55,7 @@ ___
  * JavaScript [learn.javascript.ru](https://learn.javascript.ru/)   
  * JavaScript [MDN Web Docs](https://developer.mozilla.org/ru/docs/Web/JavaScript)      
  * Javascript/Front-end [RSSCHOOL](https://rs.school/)      
- * JavaScript Algorithms and Data Structures [FreeCodeCamp](https://www.freecodecamp.org/)    
+ * JavaScript Algorithms and Data Structures [FreeCodeCamp](https://www.freecodecamp.org/certification/Abdulakhad/javascript-algorithms-and-data-structures)    
  * [CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA) 
 
 **JS, CSS, HTML, Git video courses on YouTube channels:**    
